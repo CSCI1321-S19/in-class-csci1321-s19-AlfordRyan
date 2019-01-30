@@ -1,0 +1,19 @@
+3
+CS1 257
+Pain and gain. Such is life
+2
+chair
+Something to sit on
+computer
+beep beep beep
+-1,1,-1,-1,-1,-1
+Hall
+How to get from place to place without falling on your face
+0
+0,-1,2,-1,-1,-1
+Broadway
+A bigger hall
+1
+table 
+take a guess
+-1,-1,-1,1,-1,-1
